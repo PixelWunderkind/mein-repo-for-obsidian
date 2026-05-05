@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musik-Prompt-Lexikon/Der KI-Songwriter-Shaping-Prompt.md",
+                "file": "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der KI-Songwriter-Shaping-Prompt"
+              "title": "Obsidian Backup Anleitung auf GitHub"
             }
           }
         ]
@@ -33,10 +33,14 @@
             "id": "b482493217f1912a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Obsidian Backup Anleitung auf GitHub"
             }
           }
         ]
@@ -199,17 +203,30 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "obsidian42-brat:BRAT": false
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "b482493217f1912a",
+  "active": "656ab9df4d656417",
   "lastOpenFiles": [
-    "Musik-Prompt-Lexikon/Der KI-Songwriter-Shaping-Prompt.md",
-    "Emo-Trap Variationen.md",
-    "Suno-Master-Presets.md",
-    "Übersicht-meiner-verschiedenen_Musik_Styles.md",
-    "Musik-Prompt-Lexikon/Template.md",
+    "Song-Projekte/Projekte Emo Trap/Übersicht-meiner-verschiedenen_Musik_Styles.md",
+    "Song-Projekte/Projekte Emo Trap/Suno-Master-Presets.md",
+    "Song-Projekte/Projekte Emo Trap/Emo-Trap Variationen.md",
+    "_Organisatorisches/KI-Steuerung/⚡ PIXEL‑MODUS — ULTRA‑VERSION.md",
+    "_Organisatorisches/KI-Steuerung/Prompt_Fliesstext_Korrektur.md.md",
+    "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
+    "_Organisatorisches/KI-Steuerung",
+    "Song-Projekte/Projekte Hard Rock/Master-Prompts-Hard-Rock.md",
+    "Willkommen.md",
+    "README.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Youtube-Titel, Beschreibung & Hashtag-Liste.md",
+    "Song-Projekte/Projekte Hard Rock",
+    "Song-Projekte/Projekte Emo Trap",
+    "Song-Projekte",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Template mit Zurück-Button.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Übersetzen von Songtexten.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/(Analyse → Fehlerliste → Korrektur → Fertiger Song - Text).md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Der KI-Songwriter-Shaping-Prompt.md",
+    "_Organisatorisches",
     "Health-Protocol-Supplements/Lithium Lösung.md",
     "Anno 117/Pax Romana 117/📑 Kontor-Dashboard - Pax Romana (Sicherheits-Logistik).md",
     "Anno 117",
@@ -217,13 +234,8 @@
     "Anno 117/Pax Romana 117",
     "Anno 117",
     "Pax Romana 117 Kontor",
-    "📑 Kontor-Dashboard - Pax Romana",
     "[[Suno-Master-Presets.md",
-    "README.md",
-    "Willkommen.md",
     "[Übersicht-meiner-verschiedenen_Musik_Styles.md",
-    "Musik-Prompt-Lexikon.md",
-    "Musik-Prompt-Lexikon",
-    "VorlageTag"
+    "Musik-Prompt-Lexikon.md"
   ]
 }

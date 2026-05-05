@@ -4,8 +4,6 @@ Wie du ihn jetzt nutzt:
 
 Du kannst mir jetzt einfach einen Text und einen Style hinwerfen und dazu schreiben:
 
-    „Wende den Songwriter-Shaping-Prompt auf diesen Text an: 
-    
-     [Dein Text] – Style: [Dein Style]“
- ---
+    „Wende den Songwriter-Shaping-Prompt mit dem Style: [Dein Style] auf diesen   Text an - [Dein Text] an.
+ 
 **Zurück zur Übersicht:** [[Übersicht-meiner-verschiedenen_Musik_Styles]]

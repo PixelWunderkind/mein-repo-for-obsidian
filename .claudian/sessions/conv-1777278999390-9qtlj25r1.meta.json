@@ -4,8 +4,15 @@
   "title": "install: https://github",
   "titleGenerationStatus": "failed",
   "createdAt": 1777278999392,
+<<<<<<< HEAD
   "updatedAt": 1777754722135,
   "lastResponseAt": 1777279003038,
   "sessionId": null,
   "currentNote": "Übersicht-meiner-verschiedenen_Musik_Styles.md"
+=======
+  "updatedAt": 1777728863006,
+  "lastResponseAt": 1777279003038,
+  "sessionId": null,
+  "currentNote": "Willkommen.md"
+>>>>>>> c759585bac05a3fa3f68b0d30d8fb9750f6afe58
 }
