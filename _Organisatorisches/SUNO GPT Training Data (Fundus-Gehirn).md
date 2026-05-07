@@ -1,14 +1,16 @@
-
 # 🧠 SUNO GPT Training Data (Fundus-Gehirn)
 
-Diese ZIP-Datei enthält das gesammelte Wissen für das Training und die Lyrics-Erstellung.
-
-## Datei-Link
-![[SUNO GPT Training Data (Fundus-Gehirn).zip]]
+Hier ist die aktuelle Trainings-Basis für die KI:
 
 ---
-**Status:** Gesichert via Git
-**Inhalt:** Frameworks, Cliché-Listen, Style-Tags
+### 📁 Download / Datei-Referenz
+
+[[SUNO GPT Training Data.zip]]
+![[SUNO GPT Training Data 1.zip]]
+---
+### 🛠 Framework & Regeln
+- **Stil:** [Dein Stil]
+- **Vermeide:** "Neon lights", "City streets", "Echoes of time"
+- **Nutze:** [Deine spezifischen Tags]
 
 
-![[SUNO GPT Training Data.zip]]

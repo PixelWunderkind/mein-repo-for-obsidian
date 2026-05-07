@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).zip.md",
+                "file": "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUNO GPT Training Data (Fundus-Gehirn).zip"
+              "title": "SUNO GPT Training Data (Fundus-Gehirn)"
             }
           }
         ]
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 296.5
   },
   "right": {
     "id": "147e12f901fac016",
@@ -208,7 +208,10 @@
   },
   "active": "656ab9df4d656417",
   "lastOpenFiles": [
+    "_Organisatorisches/Git-Backup-Guide.md",
     "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
+    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).md",
+    "SUNO GPT Training Data 1.zip",
     "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).zip.md",
     "SUNO GPT Training Data.zip",
     "README-Music Prompts.md",
@@ -236,7 +239,6 @@
     "Anno 117/Pax Romana 117/📑 Kontor-Dashboard - Pax Romana (Sicherheits-Logistik).md",
     "Anno 117",
     "Health-Protocol-Supplements",
-    "Anno 117/Pax Romana 117",
     "[[Suno-Master-Presets.md",
     "[Übersicht-meiner-verschiedenen_Musik_Styles.md",
     "Musik-Prompt-Lexikon.md"
