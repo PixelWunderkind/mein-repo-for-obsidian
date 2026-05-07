@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Song-Projekte/Projekte Hard Rock/Master-Prompts-Hard-Rock.md",
-                "mode": "preview",
+                "file": "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).zip.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master-Prompts-Hard-Rock"
+              "title": "SUNO GPT Training Data (Fundus-Gehirn).zip"
             }
           }
         ]
@@ -206,28 +206,31 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "2a75a69fd11274f4",
+  "active": "656ab9df4d656417",
   "lastOpenFiles": [
-    "backup.ps1",
-    "Song-Projekte/Projekte Hard Rock/_Master-Prompt Hard Rock.md",
-    "Song-Projekte/Projekte Hard Rock/Master-Prompts-Hard-Rock.md",
-    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Der KI-Songwriter-Shaping-Prompt.md",
-    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/(Analyse → Fehlerliste → Korrektur → Fertiger Song - Text).md",
-    "Song-Projekte/Projekte Emo Trap/Emo-Trap Variationen.md",
-    "Song-Projekte/Projekte Emo Trap/Suno-Master-Presets.md",
-    "Song-Projekte/Projekte Emo Trap/Übersicht-meiner-verschiedenen_Musik_Styles.md",
+    "SUNO GPT Training Data.zip",
     "README-Music Prompts.md",
-    "Willkommen.md",
+    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).zip.md",
+    "_Organisatorisches/Git-Backup-Guide.md.md",
+    "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
     "_Organisatorisches/KI-Steuerung/⚡ PIXEL‑MODUS — ULTRA‑VERSION.md",
     "_Organisatorisches/KI-Steuerung/Prompt_Fliesstext_Korrektur.md.md",
-    "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/(Analyse → Fehlerliste → Korrektur → Fertiger Song - Text).md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Übersetzen von Songtexten.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Template mit Zurück-Button.md",
+    "Song-Projekte/Projekte Emo Trap/Emo-Trap Variationen.md",
+    "Song-Projekte/Projekte Emo Trap/Suno-Master-Presets.md",
+    "Song-Projekte/Projekte Hard Rock/Master-Prompts-Hard-Rock.md",
+    "backup.ps1",
+    "Song-Projekte/Projekte Hard Rock/_Master-Prompt Hard Rock.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Der KI-Songwriter-Shaping-Prompt.md",
+    "Song-Projekte/Projekte Emo Trap/Übersicht-meiner-verschiedenen_Musik_Styles.md",
+    "Willkommen.md",
     "_Organisatorisches/KI-Steuerung",
     "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Youtube-Titel, Beschreibung & Hashtag-Liste.md",
     "Song-Projekte/Projekte Hard Rock",
     "Song-Projekte/Projekte Emo Trap",
     "Song-Projekte",
-    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Template mit Zurück-Button.md",
-    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Übersetzen von Songtexten.md",
     "_Organisatorisches",
     "Health-Protocol-Supplements/Lithium Lösung.md",
     "Anno 117/Pax Romana 117/📑 Kontor-Dashboard - Pax Romana (Sicherheits-Logistik).md",
@@ -235,7 +238,6 @@
     "Health-Protocol-Supplements",
     "Anno 117/Pax Romana 117",
     "Anno 117",
-    "Pax Romana 117 Kontor",
     "[[Suno-Master-Presets.md",
     "[Übersicht-meiner-verschiedenen_Musik_Styles.md",
     "Musik-Prompt-Lexikon.md"
