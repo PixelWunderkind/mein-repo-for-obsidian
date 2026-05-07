@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 520.5
   },
   "right": {
     "id": "147e12f901fac016",
@@ -208,11 +208,11 @@
   },
   "active": "656ab9df4d656417",
   "lastOpenFiles": [
+    "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
+    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).zip.md",
     "SUNO GPT Training Data.zip",
     "README-Music Prompts.md",
-    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).zip.md",
     "_Organisatorisches/Git-Backup-Guide.md.md",
-    "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
     "_Organisatorisches/KI-Steuerung/⚡ PIXEL‑MODUS — ULTRA‑VERSION.md",
     "_Organisatorisches/KI-Steuerung/Prompt_Fliesstext_Korrektur.md.md",
     "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/(Analyse → Fehlerliste → Korrektur → Fertiger Song - Text).md",
@@ -237,7 +237,6 @@
     "Anno 117",
     "Health-Protocol-Supplements",
     "Anno 117/Pax Romana 117",
-    "Anno 117",
     "[[Suno-Master-Presets.md",
     "[Übersicht-meiner-verschiedenen_Musik_Styles.md",
     "Musik-Prompt-Lexikon.md"
