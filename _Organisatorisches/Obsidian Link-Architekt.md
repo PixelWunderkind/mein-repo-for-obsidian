@@ -1,4 +1,4 @@
-Meta-Prompt: Obsidian Link-Architekt:
++Meta-Prompt: Obsidian Link-Architekt:
 
 Handle als Experte für Obsidian-Strukturierung. Ich möchte eine bidirektionale Verlinkung (Hin- und Her-Links) zwischen mehreren Notizen erstellen.
 

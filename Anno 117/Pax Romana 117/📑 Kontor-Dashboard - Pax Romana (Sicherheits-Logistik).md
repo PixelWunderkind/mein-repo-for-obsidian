@@ -1,130 +1,70 @@
 
 ---
 
-### 🧱 I. Bau- & Schwerindustrie
 
-**Waren:** Holz, Ziegel, **Schlamm**, **Flechtwerk**, Bretter, Eisen, Beton, Rohmarmor, Marmor, Bronze, Mosaike (Bauphase).
 
-- **75t:** 35 / 65
-    
-- **150t:** 70 / 135
-    
-- **200t:** 95 / 185
-    
-- **250t:** 125 / 235
-    
-- **300t:** 155 / 285
-    
+             🔹 Übersicht Anno 117 - Pax Romana
 
----
 
-### 🍇 II. Luxus & Elite-Profit
+**1. Rohmaterialien – Mindestbestand / Verkauf ab**
 
-**Waren:** Kleine Vögel, Vogelzungen, Vogelzungen in Aspik, Meeresgourmet (Austern mit Kaviar), Silber-Fibeln, Togen, Tyrischer Purpur (Farbstoff), Purpurschnecken, Mineralien, Feines Glas, Mosaike (Profitphase).
+Rohmaterialien sind billig, werden massenhaft produziert und sollen das Lager nicht verstopfen.
 
-- **75t:** 30 / 65
-    
-- **150t:** 65 / 135
-    
-- **200t:** 90 / 185
-    
-- **250t:** 120 / 235
-    
-- **300t:** 150 / 285
-    
+- **75t:** 15 / 40  
+- **150t:** 30 / 80  
+- **200t:** 45 / 120  
+- **250t:** 60 / 160  
+- **300t:** 75 / 200  
+
+👉 Sehr niedrige Sicherheitsstufe, schneller Abfluss bei Überproduktion.
 
 ---
 
-### 🛡️ III. Lebensnotwendige Grundversorgung (Nahrung)
+**2. Baumaterialien – Mindestbestand / Verkauf ab**
 
-**Waren:** Brot, Mehl, Weizen, Hafer, Gerste, Malz, Käse, Schmalz, Sardinen, Makrelen, Haferbrei, Garum, Herzmuscheln, Aale, Bier, Wurst, Rinderbraten, Wein, Olivenöl.
+Diese Kategorie entspricht **genau deinem Beispiel** (Bau‑ & Schwerindustrie).
 
-- **75t:** 40 / 70
-    
-- **150t:** 80 / 140
-    
-- **200t:** 110 / 190
-    
-- **250t:** 140 / 240
-    
-- **300t:** 170 / 290
-    
+- **75t:** 35 / 65  
+- **150t:** 70 / 135  
+- **200t:** 95 / 185  
+- **250t:** 125 / 235  
+- **300t:** 155 / 285  
+
+👉 Baumaterialien sind wertvoller und dürfen nicht zu früh verkauft werden.
 
 ---
 
-### ⚔️ IV. Militär & Verteidigung
+**3. Zwischenprodukte – Mindestbestand / Verkauf ab**
 
-**Waren:** Waffen, Rüstungen, **Unterbau**, Streitwagen, Pferde, 
+Zwischenprodukte sind wertvoll, weil sie Produktionsketten blockieren können.
 
-- **75t:** 35 / 65
-    
-- **150t:** 65 / 135
-    
-- **200t:** 90 / 185
-    
-- **250t:** 120 / 235
-    
-- **300t:** 150 / 285
-    
+- **75t:** 45 / 85  
+- **150t:** 90 / 170  
+- **200t:** 120 / 225  
+- **250t:** 155 / 295  
+- **300t:** 190 / 360  
+
+👉 Höhere Sicherheitsstufe, damit deine Ketten nicht trockenlaufen.
 
 ---
 
-### 🧵 V. Kleidung, Handwerk & Bedarf
+**4. Bedürfnisse (Konsumgüter) – Mindestbestand / Verkauf ab**
 
-**Waren:** Torques, Trinkhörner, Clanschild, Seife, Sandalen, Umhänge, Hosen, Pileihüte, Schilfschuhe, Hanf, Tuniken, Rinder, Schafe, Biberhüte, Keltischgrün, Stoffe, Färberwaupflanze, Salzkraut, Silber, Salz, Schweine.
+Bedürfnisse sind die **wertvollste Kategorie** und dürfen nur verkauft werden, wenn du wirklich Überfluss hast.
 
-- **75t:** 25 / 45
-    
-- **150t:** 50 / 90
-    
-- **200t:** 70 / 120
-    
-- **250t:** 90 / 150
-    
-- **300t:** 110 / 180
-    
+- **75t:** 55 / 105  
+- **150t:** 110 / 210  
+- **200t:** 145 / 275  
+- **250t:** 185 / 345  
+- **300t:** 225 / 420  
 
----
+👉 Höchste Sicherheitsstufe, Bevölkerung zuerst, Handel erst bei Überschuss.
 
-### 🛠️ VI. Rohstoffe für Handwerk & Bau
 
-**Waren:** Eisenerz, Kupfererz, Zinnerz, Silbererz, Flachs, Leder, Schilf, Ponys, Biber, Honigwaben, Granit, Lehm.
+# 🔥 Kurz gesagt:
 
-- **75t:** 20 / 55
-    
-- **150t:** 45 / 110
-    
-- **200t:** 65 / 150
-    
-- **250t:** 85 / 140
-    
-- **300t:** 110 / 285
-    
+- **55 t = Schutzbereich**  
+- **55–105 t = Stabilitätszone**  
+- **105 t = Überschuss → Verkauf starten**
 
----
-
-### 🌿 VII. Brennstoffe, Maritimes & Zwischenprodukte
-
-**Waren:** Stör (Störzucht), Austern (Austernfarm), Fischweider, Kaviar, Holzkohle, Kräuter, Harz, Lavendel, Amphoren, Salzlake, Segel, Seile, Kalkstein, Quarzsand, Oliven, Weintrauben, Sandarakholz, Glas (Zwischenprodukt), Schrifttafeln.
-
-- **75t:** 20 / 50
-    
-- **150t:** 45 / 100
-    
-- **200t:** 65 / 140
-    
-- **250t:** 85 / 180
-    
-- **300t:** 110 / 220
-    
-
----
-
-### 💎 Sonder-Einstellung: Silber-Boom
-
-- **300t Lager:** Mindestbestand **80t** / Verkauf ab **210t**.
-    
-
----
-
-03.05.2026
+Der Zwischenraum ist also **der wichtigste Teil der ganzen Kontor‑Logik**.

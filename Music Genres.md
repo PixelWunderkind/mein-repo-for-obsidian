@@ -1,10 +1,9 @@
-Music Prompts.md
+Music Prompts
 
 ---
 
 ### Aktualisierte Gesamtübersicht (Bereit für den Import)
 
-Hier ist die komplette, bereinigte Liste inklusive aller neuen Punkte, falls du dein Obsidian-Dokument in einem Rutsch aktualisieren möchtest:
 
 #### 🎹 Jazz, Soul & Chill
 
@@ -51,6 +50,3 @@ Hier ist die komplette, bereinigte Liste inklusive aller neuen Punkte, falls du 
 18. **Melodic Introspective Rap** #vibe/reflective #urban #moody
     
 
-Gesamtliste Kopieren
-
-Viel Erfolg beim Testen von Udio und Sonauto – lass mich wissen, welches Tool für dich die besseren Ergebnisse liefert!

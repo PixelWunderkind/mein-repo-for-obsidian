@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8217b72e6aa7c059",
-        "type": "tabs",
-        "dimension": 64.57006369426752,
-        "children": [
-          {
-            "id": "656ab9df4d656417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Organisatorisches/Obsidian Link-Architekt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian Link-Architekt"
-            }
-          }
-        ]
-      },
-      {
         "id": "e2cfe3d43c6af858",
         "type": "tabs",
-        "dimension": 35.42993630573248,
         "children": [
           {
             "id": "b482493217f1912a",
@@ -35,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
+                "file": "Willkommen-Verlinken Tipps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Backup Anleitung auf GitHub"
+              "title": "Willkommen-Verlinken Tipps"
             }
           }
         ]
@@ -100,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 324.5
   },
   "right": {
     "id": "147e12f901fac016",
@@ -206,43 +184,43 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "656ab9df4d656417",
+  "active": "b482493217f1912a",
   "lastOpenFiles": [
-    "_Organisatorisches/Vokale Welten erschaffen.md",
-    "_Organisatorisches/Obsidian Link-Architekt.md",
-    "_Organisatorisches/Neue Stimme erschaffen-Strategie.md",
-    "_Organisatorisches/Prompt-Stimme erschaffen.md",
-    "_Organisatorisches/Neue Stimmen erschaffen 1.md",
-    "_Organisatorisches-Eine neue spezifische Stimme erschaffen.md",
-    "Full-Stack-Websites-Projekte/Prompt-Katalog.md",
-    "Full-Stack-Websites-Projekte/_MASTER_BOILERPLATE.md",
-    "README-Music Prompts.md",
-    "Full-Stack-Websites-Projekte",
-    "Willkommen.md",
-    "_Organisatorisches/KI-Steuerung/⚡ PIXEL‑MODUS — ULTRA‑VERSION.md",
+    "_Organisatorisches/Bedienung und Formatierung.md",
+    "Willkommen-Verlinken Tipps.md",
+    "_Organisatorisches/KI-Steuerung/UI-Settings für LLM's.md",
     "_Organisatorisches/KI-Steuerung/Prompt_Fliesstext_Korrektur.md.md",
-    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).md",
-    "_Organisatorisches/Git-Backup-Guide.md",
+    "_Organisatorisches/KI-Steuerung/⚡ PIXEL‑MODUS — ULTRA‑VERSION.md",
+    "_Organisatorisches/Git-Backup-Guide Pushen.md",
+    "_Organisatorisches/Neue Stimme erschaffen-Strategie.md",
     "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
-    "SUNO GPT Training Data 1.zip",
-    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).zip.md",
-    "SUNO GPT Training Data.zip",
-    "_Organisatorisches/Git-Backup-Guide.md.md",
-    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/(Analyse → Fehlerliste → Korrektur → Fertiger Song - Text).md",
-    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Übersetzen von Songtexten.md",
-    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Template mit Zurück-Button.md",
-    "Song-Projekte/Projekte Emo Trap/Emo-Trap Variationen.md",
+    "_Organisatorisches/Obsidian Link-Architekt.md",
+    "_Organisatorisches/Prompt-Stimme erschaffen.md",
+    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).md",
+    "_Organisatorisches/Vokale Welten erschaffen.md",
+    "Full-Stack-Websites-Projekte/_MASTER_BOILERPLATE.md",
+    "Full-Stack-Websites-Projekte/Prompt-Katalog.md",
+    "Video-Generation/_Chrome-Netzwerkoptimierung.md",
+    "Music Genres.md",
+    "Anno 117/Pax Romana 117/📑 Kontor-Dashboard - Pax Romana (Sicherheits-Logistik).md",
+    "Health-Protocol-Supplements/Lithium Lösung.md",
     "Song-Projekte/Projekte Emo Trap/Suno-Master-Presets.md",
-    "Song-Projekte/Projekte Hard Rock/Master-Prompts-Hard-Rock.md",
-    "backup.ps1",
-    "Song-Projekte/Projekte Hard Rock/_Master-Prompt Hard Rock.md",
-    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Der KI-Songwriter-Shaping-Prompt.md",
+    "Song-Projekte/Stimmen generieren in Elevenlabs.md",
     "Song-Projekte/Projekte Emo Trap/Übersicht-meiner-verschiedenen_Musik_Styles.md",
+    "Song-Projekte/Projekte Hard Rock/_Hard Rock-Analyse & Korrektur.md",
+    "Song-Projekte/Projekte Hard Rock/All of Master-Prompts-Hard-Rock.md",
+    "Song-Projekte/Templates-Voices/4_Voice-Template.md",
+    "Song-Projekte/Templates-Voices/3_Voice-Template.md",
+    "Song-Projekte/Templates-Voices/2_Voice Template.md",
+    "Song-Projekte/Templates-Voices",
+    "Video-Generation",
+    "Full-Stack-Websites-Projekte",
+    "SUNO GPT Training Data 1.zip",
+    "SUNO GPT Training Data.zip",
+    "backup.ps1",
     "_Organisatorisches/KI-Steuerung",
     "Song-Projekte/Projekte Hard Rock",
     "Song-Projekte/Projekte Emo Trap",
-    "Song-Projekte",
-    "_Organisatorisches",
-    "Anno 117"
+    "Song-Projekte"
   ]
 }

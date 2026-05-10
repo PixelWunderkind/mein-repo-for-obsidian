@@ -7,24 +7,28 @@ Diese Notiz beschreibt den Workflow, um den Vault am PC zu sichern und auf GitHu
 
 ## 🛠️ Methode 1: Über PowerShell (Manuell)
 
-1. **PowerShell öffnen:** `Win + X` drücken und **Terminal** oder **PowerShell** wählen.
-    
-2. **In das Verzeichnis wechseln:**
-    
-    PowerShell
-    
-    ```
-    cd F:\MindVault\MindVault
-    ```
-    
-3. **Backup-Skript starten:**
-    
-    PowerShell
-    
-    ```
-    .\backup.ps1
-    ```
-    
+                                                       
+                                           Git pushen for backups!
+
+
+So gehst du vor:
+
+    Pfad ansteuern:
+    Gib diesen Befehl ein, um in deinen Ordner zu springen:
+    PowerShell öffnen mit Win+X
+
+    1.)            cd F:\MindVault\MindVault
+
+    2.)            Skript ausführen:
+                     Erst wenn du dort bist, kannst du das Backup-Skript starten:
+                     PowerShell
+
+    3.)            .\backup.ps1
+
+
+    4.)             git status
+
+
 
 ---
 
