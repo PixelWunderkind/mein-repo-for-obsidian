@@ -21,7 +21,7 @@ Bei **econcept** (auch _e-concept_) handelt es sich nicht um einen technischen W
 
 Eine Reduzierung der Latenz und Verbesserung der Stabilität lässt sich ohne Drittanbieter-Tools über interne Flags erreichen. Diese können **dauerhaft aktiv** bleiben.
 
-1. `chrome://flags` aufrufen.
+1.  chrome://flags aufrufen.
     
 2. Folgende Optionen auf **Enabled** setzen:
     

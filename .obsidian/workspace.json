@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b482493217f1912a",
+            "id": "f1d775d27540120b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Willkommen-Verlinken Tipps.md",
+                "file": "Song-Projekte/Clean Re‑Write_Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Willkommen-Verlinken Tipps"
+              "title": "Clean Re‑Write_Prompt"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 376.5
   },
   "right": {
     "id": "147e12f901fac016",
@@ -184,34 +184,34 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "b482493217f1912a",
+  "active": "f1d775d27540120b",
   "lastOpenFiles": [
-    "_Organisatorisches/Bedienung und Formatierung.md",
-    "Willkommen-Verlinken Tipps.md",
-    "_Organisatorisches/KI-Steuerung/UI-Settings für LLM's.md",
-    "_Organisatorisches/KI-Steuerung/Prompt_Fliesstext_Korrektur.md.md",
-    "_Organisatorisches/KI-Steuerung/⚡ PIXEL‑MODUS — ULTRA‑VERSION.md",
-    "_Organisatorisches/Git-Backup-Guide Pushen.md",
-    "_Organisatorisches/Neue Stimme erschaffen-Strategie.md",
-    "_Organisatorisches/Obsidian Backup Anleitung auf GitHub.md",
-    "_Organisatorisches/Obsidian Link-Architekt.md",
-    "_Organisatorisches/Prompt-Stimme erschaffen.md",
-    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).md",
-    "_Organisatorisches/Vokale Welten erschaffen.md",
-    "Full-Stack-Websites-Projekte/_MASTER_BOILERPLATE.md",
-    "Full-Stack-Websites-Projekte/Prompt-Katalog.md",
-    "Video-Generation/_Chrome-Netzwerkoptimierung.md",
+    "Song-Projekte/_Übersicht Song-Projekte.md",
+    "Song-Projekte/Clean Re‑Write_Prompt.md",
     "Music Genres.md",
-    "Anno 117/Pax Romana 117/📑 Kontor-Dashboard - Pax Romana (Sicherheits-Logistik).md",
-    "Health-Protocol-Supplements/Lithium Lösung.md",
-    "Song-Projekte/Projekte Emo Trap/Suno-Master-Presets.md",
+    "Clean Re‑Write_Prompt.md",
+    "_Organisatorisches/Vokale Welten erschaffen.md",
+    "_Organisatorisches/SUNO GPT Training Data (Fundus-Gehirn).md",
+    "_Organisatorisches/Prompt-Stimme erschaffen.md",
+    "Willkommen-Verlinken Tipps.md",
+    "_Organisatorisches/Neuen Song Einpflegen.md",
+    "Song-Projekte/You must be high.md",
+    "Song-Projekte/You must be high-folk-pop.md",
+    "You must be high.md",
     "Song-Projekte/Stimmen generieren in Elevenlabs.md",
     "Song-Projekte/Projekte Emo Trap/Übersicht-meiner-verschiedenen_Musik_Styles.md",
-    "Song-Projekte/Projekte Hard Rock/_Hard Rock-Analyse & Korrektur.md",
-    "Song-Projekte/Projekte Hard Rock/All of Master-Prompts-Hard-Rock.md",
+    "Song-Projekte/Projekte Emo Trap/Suno-Master-Presets.md",
+    "Song-Projekte/Projekte Emo Trap/Emo-Trap Variationen.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Youtube-Titel, Beschreibung & Hashtag-Liste.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Übersetzen von Songtexten.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Template mit Zurück-Button.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/Der KI-Songwriter-Shaping-Prompt.md",
+    "Song-Projekte/Projekte Emo Trap/Musik-Prompt-Lexikon/(Analyse → Fehlerliste → Korrektur → Fertiger Song - Text).md",
     "Song-Projekte/Templates-Voices/4_Voice-Template.md",
     "Song-Projekte/Templates-Voices/3_Voice-Template.md",
     "Song-Projekte/Templates-Voices/2_Voice Template.md",
+    "Song-Projekte/Templates-Voices/1_Voice Template.md",
+    "Health-Protocol-Supplements/Lithium Lösung.md",
     "Song-Projekte/Templates-Voices",
     "Video-Generation",
     "Full-Stack-Websites-Projekte",
