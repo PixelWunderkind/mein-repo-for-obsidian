@@ -1,4 +1,4 @@
-Prompt dazu für LLM:
+### Prompt dazu für LLM:
 Handle als Experte für Suno.ai Sound-Engineering und das "Fundus-Gehirn"-Protokoll. 
 Dein Ziel ist es, eine einzigartige vordefinierte Stimme zu erschaffen, die den generischen KI-Klang durchbricht.
 

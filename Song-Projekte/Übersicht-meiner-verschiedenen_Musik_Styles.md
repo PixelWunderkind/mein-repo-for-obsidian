@@ -14,7 +14,6 @@
       
 ---
 
-Hier ist die korrigierte und vereinheitlichte Liste für Obsidian. Ich habe den **Acoustic Folk-Pop** wie besprochen unter _Jazz, Soul & Chill_ eingeordnet (da er dort klanglich besser hinpasst) und die **AI-Vocals** als neuen Punkt 11 in die Vocal-Sektion integriert. Alle Nummern wurden sequenziell angepasst.
 
 ### 🎹 Jazz, Soul & Chill
 
@@ -82,20 +81,32 @@ Hier ist die korrigierte und vereinheitlichte Liste für Obsidian. Ich habe den 
     
 14. **Latin Trap** #vibe/latin #energy
     
-    Latin trap with Cuban piano montuno and boxing gym atmosphere, hard-hitting 808 bass and crisp trap hi-hats at 130 BPM, a live Cuban-style piano plays syncopated montuno patterns with bright percussive attack weaving through the trap beat, congas and timbales add Latin polyrhythmic texture.
+    Latin trap with Cuban piano montuno and boxing gym atmosphere, hard-hitting 808 bass  and crisp trap hi-hats at 130 BPM, a live Cuban-style piano plays syncopated montuno patterns with bright percussive attack weaving through the trap beat, congas and timbales add Latin polyrhythmic texture.
     
 15. **Amapiano / Afro-House** #vibe/dance #groove
     
-    Authentic Amapiano groove with a deep, log-drum bassline, shimmering shaker-led percussion, and soulful synth pads. The track features hypnotic piano melodies and a steady 112 BPM Afro-house rhythm, creating a warm, danceable South African lounge vibe.
+    Authentic Amapiano groove with a deep, log-drum bassline, shimmering shaker-led  percussion, and soulful synth pads. The track features hypnotic piano melodies and a steady 112 BPM Afro-house rhythm, creating a warm, danceable South African lounge vibe.
     
 16. **Cyberpunk Industrial Techno** #vibe/futuristic #aggressive
     
-    Dark cinematic industrial techno, distorted synth basslines, metallic percussion, high energy, 128 BPM, neon-noir atmosphere, gritty and futuristic, aggressive sound design.
+    Dark cinematic industrial techno, distorted synth basslines, metallic percussion, high energy,  128 BPM, neon-noir atmosphere, gritty and futuristic, aggressive sound design.
 
  17. Anthemic Synth-Pop #vibe/energy #vibrant #dance
     A vibrant pop-dance track with a confident, dance-ready groove. Features punchy electronic drums, bright shimmering synth leads, and anthemic female vocals. The production is polished and energetic, inspired by modern high-fidelity synth-pop with a powerful, catchy chorus.
 
 18. Melodic Introspective Rap #vibe/reflective #urban #moody
      A melodic rap track with an introspective and emotional atmosphere. Features a moody, filtered piano sample, a deep sub-bass, and crisp mid-tempo drums. The delivery is confident yet reflective, blending soulful R&B-style hooks with honest, storytelling verses about personal growth, resilience, and gratitude.
+     Hier ist der passende 19. Punkt, der die Liste **Beats, Bass & Modern** perfekt ergänzt. Da du gerade mit **Umberto** an einem Hard-Rock/Trap-Projekt arbeitest, habe ich den Fokus auf einen "Old-School meets Modern Grit"-Vibe gelegt:
 
-Kopieren
+19. Boom Bap x Gritty Street Rap #vibe/hard-hitting #street #raw
+
+    A raw, heavy-hitting Boom Bap track featuring a dusty, sampled horn loop and a neck-snapping drum break. The production has a gritty, vinyl-sampled feel with a deep, distorted bassline and aggressive, gravelly male vocals. It captures the essence of a concrete urban landscape—unpolished, authentic, and powerful.
+
+
+
+
+---
+
+---
+**Zugehörige Projekte**
+* Details: [[Rapp_Prompts|American Rapp Prompts]]

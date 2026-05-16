@@ -1,5 +1,5 @@
 
-YouTube‑Videotitel Prompt (Sprache + Genre automatisch)
+### YouTube‑Videotitel Prompt (Sprache + Genre automatisch)
 
 „Erstelle mir einen klaren, suchoptimierten YouTube‑Videotitel in der Sprache des eingegebenen Songtitels. Der Titel soll den Track‑Namen sowie das im Eingabetext genannte Genre enthalten (z. B. Emo Trap, Ambient Rock, Post‑Grunge, Hard Rock, Metal, Lo‑Fi usw.).
 Wenn mehrere Genres genannt werden, kombiniere sie exakt in der Reihenfolge des Eingabetextes. Keine Erklärungen, nur den fertigen Titel in einer Zeile ausgeben.“

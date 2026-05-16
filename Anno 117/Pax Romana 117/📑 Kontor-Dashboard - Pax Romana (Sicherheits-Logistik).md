@@ -2,69 +2,84 @@
 ---
 
 
-
-             🔹 Übersicht Anno 117 - Pax Romana
+# Anno 117 - Pax Romana: Profit-Optimierte Handelsliste
 
 
 **1. Rohmaterialien – Mindestbestand / Verkauf ab**
+*Aggressiver Abverkauf, da billig und schnell nachproduziert.*
 
-Rohmaterialien sind billig, werden massenhaft produziert und sollen das Lager nicht verstopfen.
-
-- **75t:** 15 / 40  
-- **150t:** 30 / 80  
-- **200t:** 45 / 120  
-- **250t:** 60 / 160  
-- **300t:** 75 / 200  
-
-👉 Sehr niedrige Sicherheitsstufe, schneller Abfluss bei Überproduktion.
+* **75t:** 15 / 30
+* **150t:** 30 / 60
+* **200t:** 40 / 80
+* **250t:** 50 / 100
+* **300t:** 60 / 120
+👉 **Strategie:** Lagerplatz minimieren, Cashflow maximieren.
 
 ---
 
 **2. Baumaterialien – Mindestbestand / Verkauf ab**
+*Gleichgewicht zwischen Bau-Reserve und Verkaufsgewinn.*
 
-Diese Kategorie entspricht **genau deinem Beispiel** (Bau‑ & Schwerindustrie).
-
-- **75t:** 35 / 65  
-- **150t:** 70 / 135  
-- **200t:** 95 / 185  
-- **250t:** 125 / 235  
-- **300t:** 155 / 285  
-
-👉 Baumaterialien sind wertvoller und dürfen nicht zu früh verkauft werden.
+* **75t:** 30 / 50
+* **150t:** 60 / 100
+* **200t:** 80 / 140
+* **250t:** 100 / 180
+* **300t:** 120 / 220
+👉 **Strategie:** Überhang wird sofort zu Gold gemacht.
 
 ---
 
 **3. Zwischenprodukte – Mindestbestand / Verkauf ab**
+*Hohe Gewinnspanne. Verkauf startet bereits bei Halbmast.*
 
-Zwischenprodukte sind wertvoll, weil sie Produktionsketten blockieren können.
-
-- **75t:** 45 / 85  
-- **150t:** 90 / 170  
-- **200t:** 120 / 225  
-- **250t:** 155 / 295  
-- **300t:** 190 / 360  
-
-👉 Höhere Sicherheitsstufe, damit deine Ketten nicht trockenlaufen.
+* **75t:** 30 / 55
+* **150t:** 60 / 110
+* **200t:** 80 / 150
+* **250t:** 100 / 190
+* **300t:** 120 / 230
+👉 **Strategie:** Teure Barren und Stoffe konstant auf dem Markt halten.
 
 ---
 
 **4. Bedürfnisse (Konsumgüter) – Mindestbestand / Verkauf ab**
+*Die Goldgrube. Nur das Nötigste bleibt im Haus, der Rest geht in den Export.*
 
-Bedürfnisse sind die **wertvollste Kategorie** und dürfen nur verkauft werden, wenn du wirklich Überfluss hast.
+* **75t:** 40 / 60
+* **150t:** 80 / 120
+* **200t:** 110 / 160
+* **250t:** 140 / 200
+* **300t:** 170 / 240
+👉 **Strategie:** Maximale Einnahmen durch Luxusgüter-Verkauf.
 
-- **75t:** 55 / 105  
-- **150t:** 110 / 210  
-- **200t:** 145 / 275  
-- **250t:** 185 / 345  
-- **300t:** 225 / 420  
+---
 
-👉 Höchste Sicherheitsstufe, Bevölkerung zuerst, Handel erst bei Überschuss.
+# 🔥 Profit-Logik:
 
+* **140t = Schutzbereich (Sicherung der Versorgung)**
+* **140–200t = Handels-Zone (Hier wird Geld verdient)**
+* **200t = Limit für Notfälle**
 
-# 🔥 Kurz gesagt:
+---
 
-- **55 t = Schutzbereich**  
-- **55–105 t = Stabilitätszone**  
-- **105 t = Überschuss → Verkauf starten**
+1. Rohmaterialien   
 
-Der Zwischenraum ist also **der wichtigste Teil der ganzen Kontor‑Logik**.
+Holz, Austern, Sandarakholz, Lehm/Schlamm, Eisenerz, Kupfererz, Zinnerz, Silbererz, Getreide, Oliven, Weintrauben, Hanf, Flachs, Kalkstein, Quarzsand, Harz, Schweine, Ochsen, Pferde, Ponys, Biber, kleine Vögel, Kräuter, Lavendel, Honigwaben, Granitblöcke, Rohmarmor, Purpurschnecken, Stör, Fischweider, Salzkraut, Färberwaupflanze, Schilff, Mineralien, Obsidian**
+
+---
+
+2. Baumaterialien  
+ 
+Bretter, Ziegel, Flechtwerk, Marmor, Beton, Granit, Mosaike, Segel, Seile, Waffen, Rüstung**
+
+---
+
+3. Zwischenprodukte   
+
+Holzkohle, Kavier, Vogelzungen, Mehl, Salz, Salzlake, Schmalz, Bronze, Silber, Eisenbarren, Leder, Stoffe, Glas, Feines Glas, Keltischgrün, Tyrischer Purpur, Unterbau, Farbstoffe**
+
+---
+
+4. Bedürfnisse
+
+Sardinen, Aale, Herzmuscheln, Brei, Brot, Wurst, Käse, Garum, Meeresgourmet, Rinderbraten, Olivenöl, Austern mit Kavier, Vogelzungen in Aspik, Wein, Bier, Tuniken, Hosen, Pilei, Schilfschuhe, Sandalen, Togen, Umhänge, Biberhüte, Seife, Figuren, Fibeln, Schrifttafeln, Latrunculi‑Sets, Liegen, Handspiegel, Halsketten, Torques, Trinkhörner, Clanschild, Streitwagen, Amphoren**
+
