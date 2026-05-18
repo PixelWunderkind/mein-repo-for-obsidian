@@ -63,27 +63,35 @@ tags:
 
 ## Universal-Prompt: Scrollytelling Canvas Frame-Trigger
 
-```markdown
-**AGIERE ALS:**
+
+````
+## Universal-Prompt: Scrollytelling Canvas Frame-Trigger
+
+Kopiere diesen Text komplett in die rechte Sidebar von Antigravity:
+
+```text
+AGIERE ALS:
 Ein weltklasse Creative Developer (Awwwards-Niveau), spezialisiert auf Next.js, Framer Motion und scroll-basierte Animationen.
 
-**DIE AUFGABE:**
+DIE AUFGABE:
 Erstelle eine minimalistische, hochwertige "Scrollytelling"-Landingpage für [PRODUKT/PROJEKTNAME]. Die HAUPTFUNKTION ist eine scroll-gebundene Canvas-Animation, die eine Bildsequenz von [OBJEKT] zeigt, das sich beim Scrollen [ART DER BEWEGUNG/EFFEKT, z.B. um 360 Grad dreht / in seine Einzelteile zerlegt / explosionsartig ausbreitet].
 
-**TECH STACK:**
+TECH STACK:
 - Framework: Next.js 14 (App Router)
 - Styling: Tailwind CSS
 - Animation: Framer Motion (speziell useScroll und useTransform)
 - Rendering: HTML5 Canvas (für flüssige Performance)
 
-**VISUELLE RICHTUNG & FARBEN:**
-- **Design-Philosophie:** [STIL, z.B. Cyberpunk, Minimalistisch, Futuristisch]
-- **Farbpalette:** Hintergrund: [HINTERGRUNDFARBE, z.B. #000000]. Text: [TEXTFARBE]
-- **Typografie:** [SCHRIFTARTEN]. Großzügige Letter-spacing, viel Weißraum
-- **Nahtloses Blending:** Der Canvas-Hintergrund MUSS exakt mit dem Seitenhintergrund übereinstimmen (Farbwert aus Bildern pipettieren!)
+VISUELLE RICHTUNG & FARBEN:
+- Design-Philosophie: [STIL, z.B. Cyberpunk, Minimalistisch, Futuristisch]
+- Farbpalette: Hintergrund: [HINTERGRUNDFARBE, z.B. #000000]. Text: [TEXTFARBE]
+- Typografie: [SCHRIFTARTEN]. Großzügige Letter-spacing, viel Weißraum
+- Nahtloses Blending: Der Canvas-Hintergrund MUSS exakt mit dem Seitenhintergrund übereinstimmen (Farbwert aus Bildern pipettieren!)
 
-**KRITISCHE IMPLEMENTIERUNG - SCROLL-ANIMATION:**
+KRITISCHE IMPLEMENTIERUNG - SCROLL-ANIMATION:
+1. Canvas-Setup mit Scroll-Trigger: Erzeuge ein reaktives HTML5 Canvas Setup mit useScroll und useTransform, das die hochgeladene ZIP-Sequenz frame-genau an die Scrollposition koppelt.
+````
 
-1. **Canvas-Setup mit Scroll-Trigger:**
-```typescript
-// KI generiert hier das reaktive HTML5 Canvas Setup mit useScroll und useTransform
+```
+<button class="copy-btn" onclick="navigator.clipboard.writeText(th
+```
