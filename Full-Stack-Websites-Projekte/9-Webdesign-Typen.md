@@ -9,8 +9,7 @@
 * **Kern-Fokus:** Interaktivität, Benutzerführung, UX-Feedback.
 
 ## 3. Immersive 3D-Websites
-* **Kurzbeschreibung:** Verlässt den zweidimensionalen Raum komplett und verwandelt den Browser mithilfe von WebGL/Three.js in eine interaktive 3D-Umgebung. Der Nutzer steuert eine virtuelle Kamera durch Räume oder interagiert direkt mit dreidimensionalen Objekten.
-* **Kern-Fokus:** Räumliche Tiefe, Exploration, Gamification.
+* Immersive 3D-Scroll-Websites verlassen den klassischen zweidimensionalen Raum komplett und transformieren den Browser mittels WebGL, Three.js oder React Three Fiber in eine interaktive 3D-Welt. Die Navigation über Scrollen oder Mausbewegungen steuert dabei eine virtuelle Kamera durch dreidimensionale Szenen oder manipuliert Objekte direkt. Der Kern-Fokus liegt hierbei auf räumlicher Tiefe, explorativem Storytelling, Gamification und maximalem User Engagement. Technisch basiert diese Umsetzung oft auf Shadern und modernen Frameworks, um eine stabile Performance von über 60 FPS auch auf mobilen Endgeräten zu sichern. Die größte Herausforderung bleibt dabei das Management hoher Asset-Ladezeiten für 3D-Modelle und Texturen, was ein striktes Performance-Budgeting sowie Optimierungstechniken wie die Mesh-Kompression erfordert.
 
 ## 4. Typografie-fokussierte Websites (Brutalist / Minimalist)
 * **Kurzbeschreibung:** Der radikale Gegenentwurf zu Bild- und Videolastigkeit. Diese Seiten reduzieren das Design auf das Wesentliche und nutzen monumentale, oft animierte oder verzerrte Schriftarten (Variable Fonts) und harte Kontraste als primäres visuelles Gestaltungselement.
