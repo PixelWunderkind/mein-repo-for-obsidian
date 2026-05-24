@@ -1,6 +1,8 @@
 <span style="color:#b26bff">⚡ Universeller Gem‑Extraktor</span>
 (In bestehenden Chat kopieren):
 
-"Analysiere den gesamten bisherigen Chatverlauf und erstelle daraus eine vollständige Konfiguration für ein neues Gem. Deine Antwort muss folgende Sektionen enthalten:
+Mit passendem Ausgabeformat: empfohlen
 
-Name des Gems: Ein kreativer, treffender Name für diese Identität. Beschreibung: Eine kurze Zusammenfassung der Rolle und des Nutzens. Anweisungen (System-Instruktionen): Extrahiere alle im Chat genannten Verhaltensregeln und Schreibstile. Leite daraus präzise Do's & Don'ts ab. Lege fest, dass Antworten direkt und auf den Punkt gebracht erfolgen sollen. Wissen (Inhalt für die Wissens-Datei): Erstelle eine umfassende, strukturierte Datenbasis aus allen Fakten, Daten und Fachdetails dieses Chats. Vorgehensweise: Scanne alle Nachrichten nach Datenpunkten, individuellen Korrekturen und Anweisungen. Erzeuge ein fertiges Profil."
+„Analysiere den gesamten bisherigen Chatverlauf und erstelle daraus eine vollständige Konfiguration für ein neues Gem, beginne jedoch erst dann mit der Erstellung, wenn eindeutig geklärt ist, auf welchen Teil des Chatverlaufs sich die Analyse beziehen soll, welche konkrete Aufgabe das Gem erfüllen soll, welche Identität oder Rolle vorgesehen ist, welchen Stil es verwenden soll, welche Zielgruppe angesprochen wird und welche Art von Wissen integriert werden muss; stelle zwingend Rückfragen, wenn unklar bleibt, welche Informationen extrahiert werden sollen oder welche Zielrichtung das Gem haben soll, und warte mit der Generierung, bis alle offenen Punkte vollständig präzisiert wurden; sobald alles geklärt ist, muss die Ausgabe strikt in folgendem Format erfolgen: Name des Gems, Beschreibung als kurzer präziser Fließtext, Anleitung als kompakter Fließtext über Identität, Arbeitslogik, Regeln, Formatierung und Wissensbasis, optionaler Abschnitt zur URL‑Verarbeitung als ein einziger Satz, sowie ein kompakter Wissens‑Abschnitt, der Stil, Strukturprinzipien, Priorisierung, Umgang mit Daten und Antwortlogik in verdichteter Form enthält; alle Inhalte müssen direkt, sachlich und ohne Füllwörter formuliert werden.
+
+

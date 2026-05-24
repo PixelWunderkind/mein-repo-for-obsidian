@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gem in Gemini erstellen/All Gems of Gemini/-Universeller_Gem-Chat-Extractor-.md",
+                "file": "Full-Stack-Websites-Projekte/7-Source-of-Truth/Design_System-Handwerker/Design_System.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Universeller_Gem-Chat-Extractor-"
+              "title": "Design_System.md"
             }
           }
         ]
@@ -184,16 +184,35 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "2a75a69fd11274f4",
+  "active": "f1d775d27540120b",
   "lastOpenFiles": [
-    "Gem in Gemini erstellen/All Gems of Gemini/Inbox Helper Gem/Inbox Helper - Gem.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Brand_Assets/Brand_Assets.md.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Design_System-Handwerker/Design_System.md.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Branche_Typ Maler/Branche_Typ-Maler.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Project_Blueprint/Project_Blueprint.md.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Brand_Assets",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/System_Instructions/System_Instructions.md.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Project_Blueprint",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/System_Instructions",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Anforderungen/Anforderungen.md.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Design_System-Handwerker",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Anforderungen",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/docs-ADMIN_LOGIN/ADMIN_LOGIN.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Branche_Typ Maler",
+    "Full-Stack-Websites-Projekte/_MASTER_BOILERPLATE.md",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/docs-ADMIN_LOGIN",
+    "docs-ADMIN_LOGIN",
+    "Full-Stack-Websites-Projekte/docs-ADMIN_LOGIN.md",
+    "Unbenannt.md",
+    "docs",
+    "Full-Stack-Websites-Projekte/7-Source-of-Truth/Seed_Data",
+    "Willkommen-Verlinken Tipps.md",
     "Gem in Gemini erstellen/All Gems of Gemini/-Universeller_Gem-Chat-Extractor-.md",
-    "Knowledge‑File für Gem „Inbox Helper“.pdf",
     "Gem in Gemini erstellen/All Gems of Gemini/Inbox Helper Gem/Branche Command Library.md",
-    "Gem in Gemini erstellen/All Gems of Gemini/Inbox Helper Gem",
-    "Gem in Gemini erstellen/All Gems of Gemini",
+    "Gem in Gemini erstellen/All Gems of Gemini/Inbox Helper Gem/Inbox Helper - Gem.md",
+    "Gem in Gemini erstellen/All Gems of Gemini/Design‑System Splitter 5.md",
+    "Music Genres.md",
     "Full-Stack-Websites-Projekte/Technischer Reparatur‑ und Veredelungs‑Prompt.md",
-    "Gem in Gemini erstellen",
     "Full-Stack-Websites-Projekte/SaaS‑Upgrade‑Prompt.md",
     "Full-Stack-Websites-Projekte/Prompt-Katalog.md",
     "Full-Stack-Websites-Projekte/Pinterest Reference Framework.md",
@@ -203,25 +222,6 @@
     "Full-Stack-Websites-Projekte/Exploded View Pictures-Fachbegriffe.md",
     "Full-Stack-Websites-Projekte/Design_DNA_Extructor_Prompt-Stitch-Figma.md",
     "Full-Stack-Websites-Projekte/Die 4 Prompts-Kimi Pipeline.md",
-    "Full-Stack-Websites-Projekte/Bild-Analyse-Tool Kimi K2.6.md",
-    "Full-Stack-Websites-Projekte/Code Agent brand_assets.md",
-    "Full-Stack-Websites-Projekte/Code Agent design_system.md",
-    "Full-Stack-Websites-Projekte/Animated Parallax Hero Sequence.md",
-    "Full-Stack-Websites-Projekte/9-Webdesign-Typen.md",
-    "_Organisatorisches/Bedienung und Formatierung.md",
-    "_Organisatorisches/KI-Steuerung/UI-Settings für LLM's.md",
-    "_Organisatorisches/KI-Steuerung/⚡Text-Analyse-Prompt.md",
-    "_Organisatorisches/KI-Steuerung/⚡ Prompt_Fliesstext_Korrektur.md.md",
-    "_Organisatorisches/KI-Steuerung/⚡ PIXEL‑MODUS — ULTRA‑VERSION.md",
-    "_Organisatorisches/Obsidian Link-Architekt.md",
-    "Full-Stack-Websites-Projekte/Code agent_instractions as a md.md",
-    "Full-Stack-Websites-Projekte/Code Agent project_blueprint as a md.md",
-    "Song-Projekte/American Rapp",
-    "American Rapp",
-    "American Rapp",
-    "Unbenannt.canvas",
-    "Song-Projekte/Templates-Voices",
-    "Video-Generation",
-    "Full-Stack-Websites-Projekte"
+    "Unbenannt.canvas"
   ]
 }
