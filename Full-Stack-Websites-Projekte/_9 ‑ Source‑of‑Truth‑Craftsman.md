@@ -1,4 +1,5 @@
-# ⭐ **Die 7‑Source‑of‑Truth‑Craftsman‑Architektur (mit Seed_Data)**
+# ⭐ **Die 9 ‑ Source‑of‑Truth‑Craftsman‑Architektur (mit Seed_Data)**
+
 
 
 ## **1. PROJEKT_BLUEPRINTS.md**  
@@ -49,6 +50,11 @@
 → Wird aus BRANCHE_*.md + brand_assets + Anforderungen generiert  
 → „Maschinenlesbare Startdaten für Prisma“
 
+## 8. Hero_Blueprint.md
+
+
+## 9. Admin_Login.md
+
 ---
 
 ⭐ Nur 2 der 7 Sources of Truth müssen bei jedem neuen Metier angepasst werden.
@@ -59,3 +65,5 @@ Und zwar:
 2. SEED_DATA.md
 
 Alles andere bleibt immer identisch, egal ob:
+
+
