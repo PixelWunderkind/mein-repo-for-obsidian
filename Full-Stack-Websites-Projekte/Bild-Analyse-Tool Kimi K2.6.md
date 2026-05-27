@@ -1,7 +1,7 @@
 
 # 📘 Kimi K2.6 — Bildanalyse & 1:1‑Rekonstruktion
 
-_(Obsidian‑Script — Copy‑Ready)_
+_(Obsidian‑Script — Copy‑Ready)_nur mit Abo
 
 ## 🎨 Überblick
 
